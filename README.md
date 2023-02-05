@@ -1,2 +1,2 @@
 # GuessANumber
-This is a simple console game "Guess A Number"
+My first small console project called Guess A Number.
