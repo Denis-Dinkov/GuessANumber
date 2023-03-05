@@ -13,6 +13,5 @@ The computer selects a **random number**, then returns information whether is **
 
 ## You can play the game directly on you browser:
 
-<img alt = "Play Button" href ="https://replit.com/@Denislav4oto1/Guess-a-number#index.js" >
-
+https://replit.com/@Denislav4oto1/Guess-a-number#index.js
 
