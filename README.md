@@ -9,5 +9,7 @@ Choose a number between 0 and 100, then press Enter.
 
 The computer selects a **random number**, then returns information whether is **less than, greater than,** or **equal** to the selected **number**.
 
-![image](https://user-images.githubusercontent.com/101288849/222990471-6461a22a-d6f1-439d-8e31-ffb31a15e79d.png)
-![image](https://user-images.githubusercontent.com/101288849/222990486-e7432f74-bf1f-4d2b-b6c1-a82d7abcd30f.png)
+![image](https://user-images.githubusercontent.com/101288849/222990737-55834407-30c9-47cc-8dd5-f986a906f7c5.png)
+![image](https://user-images.githubusercontent.com/101288849/222990766-68e86de0-9bfd-4d49-bd98-c350422208c8.png)
+
+
